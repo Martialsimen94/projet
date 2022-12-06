@@ -2,7 +2,9 @@
 
 ## Description
 
- :raised_hand: Dans ce projet, nous allons analyser des données concernant le motoGP et les grans prix.
+ :raised_hand: Dans ce projet, nous allons analyser des données concernant le motoGP et les grands prix.
+
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Martialsimen94/projet/main?labpath=index.ipynb)
 
 ## :penguin: Contexte
 Les Grands Prix moto sont la catégorie reine des courses moto sur route organisées sur des circuits routiers sanctionnés par la Fédération Internationale de Motocyclisme (FIM). Des courses de motos indépendantes ont eu lieu depuis le début du XXe siècle et les grands événements nationaux ont souvent reçu le titre de Grand Prix.
